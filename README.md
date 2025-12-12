@@ -1,4 +1,8 @@
 ## Hi there 👋
+👤 About my profile:
+
+- 🐍 Python basic programmer
+- 🌱 Always learning Python, Lua, JS, Java
 
 <!--
 **ArcHyore/ArcHyore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

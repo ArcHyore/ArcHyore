@@ -1,5 +1,5 @@
 ## Hi there 👋
-👤 About my profile:
+#### 👤 *About my profile:*
 
 - 🐍 Python basic programmer
 - 🌱 Always learning Python, Lua, JS and Java
